@@ -1,0 +1,22 @@
+{
+	"contacts":{
+		"contact0":{
+			"firstName": "Aimee",
+			"lastName": "Bolen",
+			"phoneNumber": "517-678-0987",
+			"email": "aimeebolen@gmail.com"
+		},
+		"contact1":{
+			"firstName": "Marjorie",
+			"lastName": "Cholger",
+			"phoneNumber": "989-362-2348",
+			"email": "margieC@gmail.com"
+		},
+		"contact2":{
+			"firstName": "Kevin",
+			"lastName": "Loew",
+			"phoneNumber": "876-345-9876",
+			"email": "KLoew@gmail.com"
+		}
+	}
+}
